@@ -1,0 +1,7310 @@
+[
+  {
+    "airline": "DAL",
+    "flight": "DAL1036",
+    "dep": "JFK",
+    "arr": "DFW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1234",
+    "dep": "IAH",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1066",
+    "dep": "AUS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1456",
+    "dep": "SNA",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2076",
+    "dep": "PHX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1073",
+    "dep": "IAD",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1683",
+    "dep": "AUS",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1712",
+    "dep": "SEA",
+    "arr": "PHX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2969",
+    "dep": "JFK",
+    "arr": "MSY"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1328",
+    "dep": "SEA",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL688",
+    "dep": "IAH",
+    "arr": "LAX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2736",
+    "dep": "SLC",
+    "arr": "SMF"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1705",
+    "dep": "SLC",
+    "arr": "SNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1433",
+    "dep": "DEN",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2701",
+    "dep": "AUS",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2540",
+    "dep": "SLC",
+    "arr": "PHX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2261",
+    "dep": "DEN",
+    "arr": "LAX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2886",
+    "dep": "BNA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2779",
+    "dep": "MSP",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2428",
+    "dep": "SLC",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL852",
+    "dep": "ORD",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2366",
+    "dep": "SFO",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1451",
+    "dep": "SNA",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2525",
+    "dep": "IAH",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1275",
+    "dep": "SLC",
+    "arr": "SMF"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1352",
+    "dep": "SLC",
+    "arr": "SFO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1434",
+    "dep": "AUS",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL775",
+    "dep": "SLC",
+    "arr": "BNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2689",
+    "dep": "LGA",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL675",
+    "dep": "JFK",
+    "arr": "BOS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2051",
+    "dep": "SLC",
+    "arr": "OAK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1295",
+    "dep": "IAH",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL792",
+    "dep": "BNA",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1116",
+    "dep": "SEA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2133",
+    "dep": "LGA",
+    "arr": "BOS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1637",
+    "dep": "DCA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1037",
+    "dep": "SEA",
+    "arr": "BNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1081",
+    "dep": "SEA",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL773",
+    "dep": "LAX",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2964",
+    "dep": "AUS",
+    "arr": "BOS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2439",
+    "dep": "DTW",
+    "arr": "MSY"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2957",
+    "dep": "MSY",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2323",
+    "dep": "SEA",
+    "arr": "PHX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2565",
+    "dep": "PHX",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2065",
+    "dep": "SEA",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2445",
+    "dep": "ORD",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1330",
+    "dep": "DEN",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1416",
+    "dep": "PHX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2310",
+    "dep": "LAX",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2292",
+    "dep": "SEA",
+    "arr": "SNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1443",
+    "dep": "SLC",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2227",
+    "dep": "SLC",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2153",
+    "dep": "SLC",
+    "arr": "SAT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2242",
+    "dep": "SLC",
+    "arr": "SNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1220",
+    "dep": "SEA",
+    "arr": "FAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR914",
+    "dep": "ZRH",
+    "arr": "DRS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2506",
+    "dep": "SLC",
+    "arr": "OAK"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR33K",
+    "dep": "ZRH",
+    "arr": "MAN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1726",
+    "dep": "ZRH",
+    "arr": "FCO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR104C",
+    "dep": "GVA",
+    "arr": "FRA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR183B",
+    "dep": "ZRH",
+    "arr": "VCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR199E",
+    "dep": "ZRH",
+    "arr": "BEG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2425",
+    "dep": "SLC",
+    "arr": "ONT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1523",
+    "dep": "SLC",
+    "arr": "SJC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR117H",
+    "dep": "ZRH",
+    "arr": "FLR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL906",
+    "dep": "SEA",
+    "arr": "CVG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR289W",
+    "dep": "LGW",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR915",
+    "dep": "DRS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1081",
+    "dep": "FRA",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR770J",
+    "dep": "VCE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR35Q",
+    "dep": "MAN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR119L",
+    "dep": "FLR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR176V",
+    "dep": "FCO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR12PK",
+    "dep": "BEG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR187D",
+    "dep": "ZRH",
+    "arr": "SJJ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR253V",
+    "dep": "GVA",
+    "arr": "OPO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2801",
+    "dep": "AUS",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR841E",
+    "dep": "ZRH",
+    "arr": "FLR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1072",
+    "dep": "ZRH",
+    "arr": "FRA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2305",
+    "dep": "FAI",
+    "arr": "SEA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR105Z",
+    "dep": "ZRH",
+    "arr": "HAM"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR127X",
+    "dep": "ZRH",
+    "arr": "CPH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR74L",
+    "dep": "ZRH",
+    "arr": "BRU"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2509",
+    "dep": "BOS",
+    "arr": "DFW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL0988",
+    "dep": "AUS",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2931",
+    "dep": "LGA",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1235",
+    "dep": "BOS",
+    "arr": "AUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR46V",
+    "dep": "GVA",
+    "arr": "LHR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1227",
+    "dep": "IAH",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2959",
+    "dep": "MSY",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL988",
+    "dep": "AUS",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1034",
+    "dep": "DFW",
+    "arr": "JFK"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1073",
+    "dep": "FRA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR358H",
+    "dep": "FLR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1568",
+    "dep": "BOS",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1005",
+    "dep": "JFK",
+    "arr": "DFW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2061",
+    "dep": "DEN",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1377",
+    "dep": "JFK",
+    "arr": "MSY"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1447",
+    "dep": "DEN",
+    "arr": "LAX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL678",
+    "dep": "IAH",
+    "arr": "LAX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL886",
+    "dep": "CVG",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL861",
+    "dep": "BNA",
+    "arr": "SEA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1451",
+    "dep": "SJJ",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL750",
+    "dep": "BNA",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL659",
+    "dep": "JFK",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1445",
+    "dep": "DTW",
+    "arr": "SAT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2395",
+    "dep": "ONT",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR78W",
+    "dep": "BRU",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2494",
+    "dep": "OAK",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2953",
+    "dep": "MSP",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2235",
+    "dep": "SJC",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR175D",
+    "dep": "CPH",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR31H",
+    "dep": "LHR",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL976",
+    "dep": "ORD",
+    "arr": "SEA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR109A",
+    "dep": "HAM",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR207J",
+    "dep": "OPO",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1349",
+    "dep": "DTW",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1520",
+    "dep": "IAH",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2556",
+    "dep": "SAT",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR41RF",
+    "dep": "ZRH",
+    "arr": "OSL"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2907",
+    "dep": "SNA",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2377",
+    "dep": "SLC",
+    "arr": "SJC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2872",
+    "dep": "SLC",
+    "arr": "SNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1678",
+    "dep": "PHX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2070",
+    "dep": "MSP",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2176",
+    "dep": "SNA",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1311",
+    "dep": "SLC",
+    "arr": "SFO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2456",
+    "dep": "DTW",
+    "arr": "BWI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR173T",
+    "dep": "ZRH",
+    "arr": "NAP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1640",
+    "dep": "SEA",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1455",
+    "dep": "SLC",
+    "arr": "SMF"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL772",
+    "dep": "LAX",
+    "arr": "IAH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR878C",
+    "dep": "ZRH",
+    "arr": "DUB"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR49B",
+    "dep": "ZRH",
+    "arr": "LCY"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2206",
+    "dep": "LGA",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1395",
+    "dep": "LGA",
+    "arr": "SRQ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR56M",
+    "dep": "GVA",
+    "arr": "LHR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1297",
+    "dep": "SLC",
+    "arr": "IAH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR199A",
+    "dep": "ZRH",
+    "arr": "MXP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1310",
+    "dep": "DFW",
+    "arr": "BOS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2372",
+    "dep": "SLC",
+    "arr": "SAT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1694",
+    "dep": "SLC",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1506",
+    "dep": "SLC",
+    "arr": "MCI"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2339",
+    "dep": "SEA",
+    "arr": "SFO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2594",
+    "dep": "AUS",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR121L",
+    "dep": "OSL",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1415",
+    "dep": "AUS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2256",
+    "dep": "SLC",
+    "arr": "ONT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2280",
+    "dep": "LAX",
+    "arr": "DEN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR106U",
+    "dep": "GVA",
+    "arr": "FRA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1175",
+    "dep": "JFK",
+    "arr": "AUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR69P",
+    "dep": "NAP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2097",
+    "dep": "IAH",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1222",
+    "dep": "SLC",
+    "arr": "SJC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1257",
+    "dep": "SAT",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2966",
+    "dep": "MSY",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1663",
+    "dep": "AUS",
+    "arr": "DTW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR441R",
+    "dep": "LCY",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2599",
+    "dep": "SEA",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1495",
+    "dep": "SEA",
+    "arr": "SFO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2054",
+    "dep": "AUS",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL952",
+    "dep": "DFW",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1390",
+    "dep": "SLC",
+    "arr": "SNA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR407",
+    "dep": "DUB",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2715",
+    "dep": "MSP",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1388",
+    "dep": "SEA",
+    "arr": "GEG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR37G",
+    "dep": "LHR",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR108T",
+    "dep": "FRA",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1430",
+    "dep": "SEA",
+    "arr": "TUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1548",
+    "dep": "SLC",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2985",
+    "dep": "SAT",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2874",
+    "dep": "SLC",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1332",
+    "dep": "DEN",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1035",
+    "dep": "BOS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1308",
+    "dep": "IAH",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1285",
+    "dep": "DTW",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9959",
+    "dep": "DTW",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL823",
+    "dep": "SEA",
+    "arr": "IAD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1149",
+    "dep": "MSP",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1303",
+    "dep": "MSP",
+    "arr": "AUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR126R",
+    "dep": "ZRH",
+    "arr": "CPH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR75HL",
+    "dep": "ZRH",
+    "arr": "LUX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR98CP",
+    "dep": "GVA",
+    "arr": "LIS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR74U",
+    "dep": "LUX",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR169A",
+    "dep": "CPH",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR51KJ",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR115U",
+    "dep": "MXP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2809",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR271X",
+    "dep": "LIS",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR264Z",
+    "dep": "ZRH",
+    "arr": "MAD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR441A",
+    "dep": "ZRH",
+    "arr": "FCO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR78K",
+    "dep": "ZRH",
+    "arr": "LUX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR547L",
+    "dep": "FCO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2082",
+    "dep": "DTW",
+    "arr": "MSY"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR424N",
+    "dep": "MAD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR134U",
+    "dep": "ZRH",
+    "arr": "WAW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR115Z",
+    "dep": "ZRH",
+    "arr": "PRG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2563",
+    "dep": "AUS",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1522",
+    "dep": "MSY",
+    "arr": "DTW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR22RB",
+    "dep": "ZRH",
+    "arr": "FRA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR150Y",
+    "dep": "FRA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2470",
+    "dep": "SLC",
+    "arr": "SFO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL755",
+    "dep": "SEA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1027",
+    "dep": "MSP",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR54W",
+    "dep": "ZRH",
+    "arr": "BOD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR523P",
+    "dep": "BOD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR137Q",
+    "dep": "WAW",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR123Z",
+    "dep": "PRG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR101G",
+    "dep": "GVA",
+    "arr": "FRA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR176H",
+    "dep": "ZRH",
+    "arr": "MLA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR293V",
+    "dep": "ZRH",
+    "arr": "TIA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR152Q",
+    "dep": "ZRH",
+    "arr": "VIE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1083",
+    "dep": "FRA",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL451",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR778P",
+    "dep": "TIA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR561K",
+    "dep": "VIE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR178D",
+    "dep": "MLA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9937",
+    "dep": "JFK",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL482",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR31V",
+    "dep": "ZRH",
+    "arr": "MAN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR528",
+    "dep": "GVA",
+    "arr": "NCE"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL356",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR357K",
+    "dep": "MAN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR89KJ",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR58U",
+    "dep": "NCE",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9938",
+    "dep": "MSP",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL564",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9963",
+    "dep": "MSP",
+    "arr": "DTW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR44KX",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR105A",
+    "dep": "ZRH",
+    "arr": "FRA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR776A",
+    "dep": "ZRH",
+    "arr": "AMS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR43A",
+    "dep": "ZRH",
+    "arr": "LCY"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR92P",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1069",
+    "dep": "FRA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR46J",
+    "dep": "LCY",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR60C",
+    "dep": "AMS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR98D",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR47GP",
+    "dep": "ZRH",
+    "arr": "BEG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR112W",
+    "dep": "ZRH",
+    "arr": "PRG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL551",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR17AL",
+    "dep": "ZRH",
+    "arr": "BDS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR",
+    "dep": "GVA",
+    "arr": "HER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR149Y",
+    "dep": "PRG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR137B",
+    "dep": "BEG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR179H",
+    "dep": "BDS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL317",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR64C",
+    "dep": "ZRH",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR82F",
+    "dep": "ZRH",
+    "arr": "HAJ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR107C",
+    "dep": "ZRH",
+    "arr": "DUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR103Q",
+    "dep": "DUS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL363",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR63J",
+    "dep": "CDG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR829",
+    "dep": "HAJ",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL382",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2487",
+    "dep": "SLC",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2731",
+    "dep": "DTW",
+    "arr": "AUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1724",
+    "dep": "ZRH",
+    "arr": "BDS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1574",
+    "dep": "ZRH",
+    "arr": "VIE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR88Q",
+    "dep": "ZRH",
+    "arr": "HAJ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR268K",
+    "dep": "GVA",
+    "arr": "VLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2311",
+    "dep": "SLC",
+    "arr": "SMF"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR445F",
+    "dep": "OSL",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1725",
+    "dep": "BDS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR81C",
+    "dep": "HAJ",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR218Q",
+    "dep": "VLC",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR733U",
+    "dep": "VIE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR45C",
+    "dep": "ZRH",
+    "arr": "LCY"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR225K",
+    "dep": "ZRH",
+    "arr": "BUD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR855W",
+    "dep": "ZRH",
+    "arr": "VCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR117V",
+    "dep": "GVA",
+    "arr": "PRG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2833",
+    "dep": "ORD",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR895T",
+    "dep": "ZRH",
+    "arr": "GRZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR166N",
+    "dep": "VCE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1748",
+    "dep": "AUS",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2817",
+    "dep": "DEN",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR147P",
+    "dep": "PRG",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR285E",
+    "dep": "BUD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR12PN",
+    "dep": "LCY",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR159J",
+    "dep": "GRZ",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1483",
+    "dep": "SMF",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR79W",
+    "dep": "ZRH",
+    "arr": "AGP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1176",
+    "dep": "LGA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR129T",
+    "dep": "ZRH",
+    "arr": "CPH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1238",
+    "dep": "LAX",
+    "arr": "DEN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR225Y",
+    "dep": "GVA",
+    "arr": "AGP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1358",
+    "dep": "MSP",
+    "arr": "ORD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR112E",
+    "dep": "ZRH",
+    "arr": "MUC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL760",
+    "dep": "SLC",
+    "arr": "DCA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2460",
+    "dep": "SLC",
+    "arr": "DFW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR262C",
+    "dep": "AGP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2561",
+    "dep": "MSP",
+    "arr": "EWR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2205",
+    "dep": "MSP",
+    "arr": "DFW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR210W",
+    "dep": "AGP",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2551",
+    "dep": "ORD",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR825M",
+    "dep": "CPH",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1286",
+    "dep": "MSP",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2995",
+    "dep": "DTW",
+    "arr": "DCA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR18K",
+    "dep": "MUC",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1240",
+    "dep": "DEN",
+    "arr": "LAX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2141",
+    "dep": "LGA",
+    "arr": "PBI"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1668",
+    "dep": "JFK",
+    "arr": "BOS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1509",
+    "dep": "DTW",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1741",
+    "dep": "BOS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2744",
+    "dep": "IAH",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1435",
+    "dep": "DFW",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1225",
+    "dep": "MSP",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1542",
+    "dep": "DFW",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2152",
+    "dep": "SEA",
+    "arr": "PDX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2920",
+    "dep": "SLC",
+    "arr": "PHX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1077",
+    "dep": "JFK",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2270",
+    "dep": "MSP",
+    "arr": "DFW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL380",
+    "dep": "SLC",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1205",
+    "dep": "MSP",
+    "arr": "BWI"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL888",
+    "dep": "DTW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1417",
+    "dep": "SLC",
+    "arr": "GEG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1716",
+    "dep": "BOS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR32R",
+    "dep": "ZRH",
+    "arr": "LHR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR45RN",
+    "dep": "ZRH",
+    "arr": "BHX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1422",
+    "dep": "BWI",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR49P",
+    "dep": "ZRH",
+    "arr": "CDG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1167",
+    "dep": "LGA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2480",
+    "dep": "PBI",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR12BH",
+    "dep": "GVA",
+    "arr": "GOT"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR30K",
+    "dep": "LHR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1662",
+    "dep": "DFW",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2271",
+    "dep": "DTW",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2516",
+    "dep": "IAH",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2589",
+    "dep": "DTW",
+    "arr": "BNA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR12J",
+    "dep": "GVA",
+    "arr": "ATH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1040",
+    "dep": "DEN",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1460",
+    "dep": "GEG",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL937",
+    "dep": "DEN",
+    "arr": "JFK"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR425",
+    "dep": "BHX",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR63M",
+    "dep": "CDG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL384",
+    "dep": "JFK",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1221",
+    "dep": "SEA",
+    "arr": "PHX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR11WL",
+    "dep": "GOT",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR77UP",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1350",
+    "dep": "SLC",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1721",
+    "dep": "MSP",
+    "arr": "MSY"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR223P",
+    "dep": "ZRH",
+    "arr": "BUD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR73VK",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2437",
+    "dep": "SLC",
+    "arr": "ORD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR181V",
+    "dep": "ATH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR47WY",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR101X",
+    "dep": "ZRH",
+    "arr": "HAM"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1498",
+    "dep": "BNA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2520",
+    "dep": "SLC",
+    "arr": "GEG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2482",
+    "dep": "DTW",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1317",
+    "dep": "SLC",
+    "arr": "SFO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR24H",
+    "dep": "ZRH",
+    "arr": "LHR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR170X",
+    "dep": "HAM",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2330",
+    "dep": "PHX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1486",
+    "dep": "JFK",
+    "arr": "BOS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR358",
+    "dep": "GVA",
+    "arr": "LHR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2490",
+    "dep": "SNA",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1025",
+    "dep": "DTW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2755",
+    "dep": "IAH",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1437",
+    "dep": "BOS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2792",
+    "dep": "SLC",
+    "arr": "AUS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2651",
+    "dep": "PHX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2122",
+    "dep": "MSP",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2348",
+    "dep": "DTW",
+    "arr": "DEN"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2571",
+    "dep": "MSP",
+    "arr": "ORD"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2916",
+    "dep": "PDX",
+    "arr": "SEA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR50D",
+    "dep": "ZRH",
+    "arr": "NCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR97Y",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR222",
+    "dep": "ZRH",
+    "arr": "BEY"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR359",
+    "dep": "LHR",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR345",
+    "dep": "LHR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR97G",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR33V",
+    "dep": "BUD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR48AB",
+    "dep": "NCE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1742",
+    "dep": "ZRH",
+    "arr": "PMO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR203E",
+    "dep": "ZRH",
+    "arr": "BIO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR223",
+    "dep": "BEY",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1743",
+    "dep": "PMO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR174H",
+    "dep": "GVA",
+    "arr": "FRA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR205V",
+    "dep": "BIO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2344",
+    "dep": "DTW",
+    "arr": "IAH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2281",
+    "dep": "DEN",
+    "arr": "SLC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1085",
+    "dep": "FRA",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR734",
+    "dep": "ZRH",
+    "arr": "AMS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR338",
+    "dep": "ZRH",
+    "arr": "LHR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR359J",
+    "dep": "GVA",
+    "arr": "LGW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR70T",
+    "dep": "AMS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR339",
+    "dep": "LHR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2572",
+    "dep": "DTW",
+    "arr": "BWI"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9960",
+    "dep": "DFW",
+    "arr": "MSP"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL9888",
+    "dep": "TWF",
+    "arr": "SLC"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL514",
+    "dep": "DFW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR69KC",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI724",
+    "dep": "RIX",
+    "arr": "TBS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI791",
+    "dep": "RIX",
+    "arr": "DXB"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2070",
+    "dep": "FLL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA305",
+    "dep": "YUL",
+    "arr": "YVR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA763",
+    "dep": "YUL",
+    "arr": "SFO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA541",
+    "dep": "YYZ",
+    "arr": "SEA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA693",
+    "dep": "YYT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1089",
+    "dep": "MCO",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA620",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA146",
+    "dep": "YYC",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL558",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2469",
+    "dep": "BOS",
+    "arr": "FLL"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1602",
+    "dep": "USN",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA975",
+    "dep": "PVR",
+    "arr": "YUL"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL511",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1104",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA740",
+    "dep": "SFO",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA783",
+    "dep": "YUL",
+    "arr": "LAX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA723",
+    "dep": "LGA",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU392",
+    "dep": "TPA",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA364",
+    "dep": "YLW",
+    "arr": "YUL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU470",
+    "dep": "FLL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1130",
+    "dep": "YYC",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1040",
+    "dep": "DEN",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA335",
+    "dep": "YUL",
+    "arr": "YEG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL391",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA722",
+    "dep": "YYZ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1338",
+    "dep": "GVA",
+    "arr": "DME"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA949",
+    "dep": "PTP",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA425",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA328",
+    "dep": "YYC",
+    "arr": "YUL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2468",
+    "dep": "CHS",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA2015",
+    "dep": "RSW",
+    "arr": "YUL"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1107",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU238",
+    "dep": "AUS",
+    "arr": "BOS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU170",
+    "dep": "FLL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA2473",
+    "dep": "YYZ",
+    "arr": "YQT"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI407",
+    "dep": "KBP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU297",
+    "dep": "BOS",
+    "arr": "ATL"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC200",
+    "dep": "DAR",
+    "arr": "NBO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI411",
+    "dep": "ODS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI725",
+    "dep": "TBS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA462",
+    "dep": "YYZ",
+    "arr": "YOW"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1109",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC110",
+    "dep": "DAR",
+    "arr": "MWZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA327",
+    "dep": "YUL",
+    "arr": "YYC"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA672",
+    "dep": "YUL",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3WX",
+    "dep": "TKU",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA159",
+    "dep": "YYZ",
+    "arr": "YYC"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI32M",
+    "dep": "HEL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA224",
+    "dep": "YVR",
+    "arr": "YYC"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI36V",
+    "dep": "TLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI35T",
+    "dep": "TMP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI35G",
+    "dep": "VNO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA692",
+    "dep": "YYZ",
+    "arr": "YYT"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1108",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC201",
+    "dep": "NBO",
+    "arr": "DAR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR043",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1135",
+    "dep": "YYZ",
+    "arr": "YYJ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2YH",
+    "dep": "TLL",
+    "arr": "BRU"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR262",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1110",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR081",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1115",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR064",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI89G",
+    "dep": "RIX",
+    "arr": "MUC"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC111",
+    "dep": "MWZ",
+    "arr": "DAR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI74A",
+    "dep": "RIX",
+    "arr": "BER"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA7054",
+    "dep": "YQT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8GJ",
+    "dep": "RIX",
+    "arr": "CDG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI792",
+    "dep": "DXB",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6G1",
+    "dep": "RIX",
+    "arr": "LGW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI424",
+    "dep": "RIX",
+    "arr": "SVO"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB4811",
+    "dep": "FRU",
+    "arr": "DEL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8FH",
+    "dep": "TLL",
+    "arr": "AMS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1339",
+    "dep": "DME",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2250",
+    "dep": "ZRH",
+    "arr": "BUD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR101K",
+    "dep": "ZRH",
+    "arr": "DUS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI60K",
+    "dep": "RIX",
+    "arr": "BRU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7HB",
+    "dep": "VNO",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI83L",
+    "dep": "RIX",
+    "arr": "FRA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2182",
+    "dep": "STR",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9LE",
+    "dep": "RIX",
+    "arr": "VIE"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6RV",
+    "dep": "RIX",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI15P",
+    "dep": "RIX",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6NG",
+    "dep": "RIX",
+    "arr": "FCO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI30W",
+    "dep": "RIX",
+    "arr": "HEL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR44AG",
+    "dep": "CDG",
+    "arr": "BLQ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI31G",
+    "dep": "RIX",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI13F",
+    "dep": "RIX",
+    "arr": "CPH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR263",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR612Q",
+    "dep": "ZRH",
+    "arr": "MXP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1M1",
+    "dep": "RIX",
+    "arr": "ARN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3ZB",
+    "dep": "RIX",
+    "arr": "VNO"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1116",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC134",
+    "dep": "DAR",
+    "arr": "JRO"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1117",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR146X",
+    "dep": "OTP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4759",
+    "dep": "OSL",
+    "arr": "MUC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR194W",
+    "dep": "ATH",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI97T",
+    "dep": "BER",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI30Y",
+    "dep": "HEL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1118",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC2110",
+    "dep": "DAR",
+    "arr": "MWZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2291",
+    "dep": "KBP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR151M",
+    "dep": "GOT",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8ED",
+    "dep": "MUC",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1R2",
+    "dep": "OSL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4755",
+    "dep": "OSL",
+    "arr": "FRA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7KL",
+    "dep": "VIE",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI13G",
+    "dep": "CPH",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI98R",
+    "dep": "BRU",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI425",
+    "dep": "SVO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3G2",
+    "dep": "VNO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR044",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI31T",
+    "dep": "TLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR190",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1121",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR14XT",
+    "dep": "BLQ",
+    "arr": "CDG"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC135",
+    "dep": "JRO",
+    "arr": "ZNZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1M2",
+    "dep": "ARN",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR065",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA685",
+    "dep": "YYT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR022",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR101E",
+    "dep": "DUS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI60L",
+    "dep": "BRU",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7EG",
+    "dep": "FRA",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6RZ",
+    "dep": "AMS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA603",
+    "dep": "YHZ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR35QJ",
+    "dep": "CDG",
+    "arr": "BCN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA156",
+    "dep": "YYC",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2183",
+    "dep": "AMS",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI69R",
+    "dep": "CDG",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI65T",
+    "dep": "LGW",
+    "arr": "RIX"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1125",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9UG",
+    "dep": "AMS",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8KY",
+    "dep": "AMS",
+    "arr": "VNO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2516",
+    "dep": "STR",
+    "arr": "BIO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6MC",
+    "dep": "FCO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4760",
+    "dep": "MUC",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7PY",
+    "dep": "RIX",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC2111",
+    "dep": "MWZ",
+    "arr": "DAR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA665",
+    "dep": "YHZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR023",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR195",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1607",
+    "dep": "GMP",
+    "arr": "USN"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU104",
+    "dep": "RUN",
+    "arr": "MRU"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1031",
+    "dep": "PUS",
+    "arr": "CJU"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1122",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR191",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9861",
+    "dep": "RIX",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC122",
+    "dep": "DAR",
+    "arr": "JRO"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU569",
+    "dep": "BOS",
+    "arr": "FLL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR73B",
+    "dep": "ZRH",
+    "arr": "AMS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR101C",
+    "dep": "ZRH",
+    "arr": "DUS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU551",
+    "dep": "BOS",
+    "arr": "MCO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL825",
+    "dep": "LGA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR206L",
+    "dep": "ZRH",
+    "arr": "OPO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR29RG",
+    "dep": "ZRH",
+    "arr": "VLC"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA481",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR045",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI24E",
+    "dep": "RIX",
+    "arr": "HAM"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3VL",
+    "dep": "RIX",
+    "arr": "PRG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7EU",
+    "dep": "RIX",
+    "arr": "BLL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR51TK",
+    "dep": "BCN",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR139K",
+    "dep": "ZRH",
+    "arr": "WAW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2976",
+    "dep": "STR",
+    "arr": "ZAG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI402",
+    "dep": "RIX",
+    "arr": "KBP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR116R",
+    "dep": "ZRH",
+    "arr": "OTP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA701",
+    "dep": "LGA",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4756",
+    "dep": "FRA",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8EP",
+    "dep": "RIX",
+    "arr": "MAD"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1126",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA485",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA480",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU1097",
+    "dep": "BOS",
+    "arr": "ATL"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1034",
+    "dep": "CJU",
+    "arr": "PUS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2033",
+    "dep": "BOS",
+    "arr": "IAH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2290",
+    "dep": "ZRH",
+    "arr": "KBP"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR024",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1326",
+    "dep": "ZRH",
+    "arr": "DME"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA602",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB4812",
+    "dep": "DEL",
+    "arr": "OSS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA439",
+    "dep": "YOW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR276G",
+    "dep": "ZRH",
+    "arr": "LJU"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR487V",
+    "dep": "ZRH",
+    "arr": "DUB"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR26GC",
+    "dep": "CDG",
+    "arr": "BER"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2HU",
+    "dep": "RIX",
+    "arr": "KEF"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL461",
+    "dep": "DFW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2517",
+    "dep": "BIO",
+    "arr": "STR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR084",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU296",
+    "dep": "ATL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR074",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR274",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA400",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA331",
+    "dep": "YUL",
+    "arr": "YEG"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU109",
+    "dep": "BOS",
+    "arr": "JAX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1129",
+    "dep": "YYZ",
+    "arr": "YLW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR167Z",
+    "dep": "DUS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL2484",
+    "dep": "LGA",
+    "arr": "SRQ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR729",
+    "dep": "AMS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7LZ",
+    "dep": "ZRH",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1073",
+    "dep": "YUL",
+    "arr": "DEN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA201",
+    "dep": "YYC",
+    "arr": "YVR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL409",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL561",
+    "dep": "LGA",
+    "arr": "DFW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI29H",
+    "dep": "TLL",
+    "arr": "CPH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8MT",
+    "dep": "PRG",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4LF",
+    "dep": "BLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG37Z",
+    "dep": "ZAG",
+    "arr": "STR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA7053",
+    "dep": "CUN",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA332",
+    "dep": "YEG",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA737",
+    "dep": "YYZ",
+    "arr": "SFO"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU891",
+    "dep": "BOS",
+    "arr": "TPA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6CD",
+    "dep": "VNO",
+    "arr": "BER"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR025",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2277",
+    "dep": "LJU",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA702",
+    "dep": "YYZ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR68BJ",
+    "dep": "WAW",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA402",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ATC",
+    "flight": "5HAAP",
+    "dep": "JRO",
+    "arr": "MWZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7HQ",
+    "dep": "TLL",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR244A",
+    "dep": "OPO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU109",
+    "dep": "MRU",
+    "arr": "RUN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA324",
+    "dep": "YYC",
+    "arr": "YUL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR283W",
+    "dep": "VLC",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI84F",
+    "dep": "RIX",
+    "arr": "CDG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6BL",
+    "dep": "RIX",
+    "arr": "LGW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS362",
+    "dep": "OSL",
+    "arr": "TRD"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR075",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR275",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU1565",
+    "dep": "BOS",
+    "arr": "SAT"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR55R",
+    "dep": "DUB",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU552",
+    "dep": "MCO",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI403",
+    "dep": "KBP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR71KV",
+    "dep": "BER",
+    "arr": "CDG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI25K",
+    "dep": "HAM",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6D9",
+    "dep": "RIX",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6C3",
+    "dep": "RIX",
+    "arr": "BRU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8BX",
+    "dep": "RIX",
+    "arr": "MUC"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3TG",
+    "dep": "RIX",
+    "arr": "DUS"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR91QG",
+    "dep": "CDG",
+    "arr": "LIS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA604",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7BA",
+    "dep": "RIX",
+    "arr": "VIE"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC123",
+    "dep": "MWZ",
+    "arr": "JRO"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4104",
+    "dep": "QUO",
+    "arr": "LOS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU70",
+    "dep": "FLL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6JK",
+    "dep": "RIX",
+    "arr": "FRA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA684",
+    "dep": "YYZ",
+    "arr": "YYT"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA607",
+    "dep": "YHZ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA407",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU396",
+    "dep": "ATL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR48X",
+    "dep": "GVA",
+    "arr": "DUB"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL531",
+    "dep": "LGA",
+    "arr": "DFW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9GR",
+    "dep": "BER",
+    "arr": "VNO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR028",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2WK",
+    "dep": "CPH",
+    "arr": "TLL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR066",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1037",
+    "dep": "YYZ",
+    "arr": "DEN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA707",
+    "dep": "LGA",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2813",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR117N",
+    "dep": "ZRH",
+    "arr": "GOT"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL900",
+    "dep": "MSP",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS827",
+    "dep": "OSL",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI15M",
+    "dep": "RIX",
+    "arr": "OSL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA165",
+    "dep": "YYZ",
+    "arr": "YEG"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA760",
+    "dep": "SFO",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR086",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS375",
+    "dep": "TRD",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9JT",
+    "dep": "RIX",
+    "arr": "VNO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3FT",
+    "dep": "MAD",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1P9",
+    "dep": "RIX",
+    "arr": "CPH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4ZK",
+    "dep": "RIX",
+    "arr": "TLL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA409",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1327",
+    "dep": "DME",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC202",
+    "dep": "DAR",
+    "arr": "NBO"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1601",
+    "dep": "SRQ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA410",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR113F",
+    "dep": "ZRH",
+    "arr": "VIE"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA540",
+    "dep": "SEA",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA598",
+    "dep": "YVR",
+    "arr": "SNA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL499",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3KB",
+    "dep": "KEF",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA782",
+    "dep": "LAX",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1X9",
+    "dep": "RIX",
+    "arr": "ARN"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU10",
+    "dep": "JAX",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA411",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR048",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4HE",
+    "dep": "CDG",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6EY",
+    "dep": "TLL",
+    "arr": "VNO"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU892",
+    "dep": "TPA",
+    "arr": "BOS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU932",
+    "dep": "IAH",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI24X",
+    "dep": "RIX",
+    "arr": "HEL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9UZ",
+    "dep": "VNO",
+    "arr": "TLL"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4105",
+    "dep": "LOS",
+    "arr": "QUO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR97L",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR74CU",
+    "dep": "LIS",
+    "arr": "CDG"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR27QB",
+    "dep": "CDG",
+    "arr": "LIN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI62D",
+    "dep": "AMS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1134",
+    "dep": "YYJ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC102",
+    "dep": "DAR",
+    "arr": "MWZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA325",
+    "dep": "YUL",
+    "arr": "YYC"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9WL",
+    "dep": "VNO",
+    "arr": "MUC"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6C4",
+    "dep": "BRU",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6BM",
+    "dep": "LGW",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI83U",
+    "dep": "VIE",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6UQ",
+    "dep": "MUC",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI92L",
+    "dep": "CDG",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI49E",
+    "dep": "DUS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1088",
+    "dep": "YYZ",
+    "arr": "MCO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA619",
+    "dep": "YHZ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7KJ",
+    "dep": "FRA",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA664",
+    "dep": "YUL",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS828",
+    "dep": "AMS",
+    "arr": "OSL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR029",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA412",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3ZC",
+    "dep": "TLL",
+    "arr": "ARN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR448G",
+    "dep": "DUB",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI14B",
+    "dep": "CPH",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR152A",
+    "dep": "VIE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU697",
+    "dep": "BOS",
+    "arr": "ATL"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC203",
+    "dep": "NBO",
+    "arr": "DAR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR067",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA686",
+    "dep": "YYZ",
+    "arr": "YYT"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1039",
+    "dep": "YYZ",
+    "arr": "DEN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA614",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1072",
+    "dep": "DEN",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI15L",
+    "dep": "OSL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3QC",
+    "dep": "ARN",
+    "arr": "TLL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA415",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA414",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU239",
+    "dep": "BOS",
+    "arr": "AUS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI79M",
+    "dep": "TLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2PG",
+    "dep": "HEL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR049",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI37D",
+    "dep": "VNO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR087",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA689",
+    "dep": "YYT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU391",
+    "dep": "BOS",
+    "arr": "TPA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL512",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR89MJ",
+    "dep": "LIN",
+    "arr": "CDG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL802",
+    "dep": "LGA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR98R",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA417",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR060",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC103",
+    "dep": "MWZ",
+    "arr": "DAR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA334",
+    "dep": "YEG",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR042",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU1566",
+    "dep": "SAT",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA599",
+    "dep": "SNA",
+    "arr": "YVR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL404",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2467",
+    "dep": "BOS",
+    "arr": "CHS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR020",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1084",
+    "dep": "YYZ",
+    "arr": "RSW"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1038",
+    "dep": "DEN",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7RB",
+    "dep": "MUC",
+    "arr": "VNO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA669",
+    "dep": "YHZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA7057",
+    "dep": "LAX",
+    "arr": "YVR"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL546",
+    "dep": "LGA",
+    "arr": "ORD"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA421",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI406",
+    "dep": "RIX",
+    "arr": "KBP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA170",
+    "dep": "YEG",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI36D",
+    "dep": "RIX",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3LR",
+    "dep": "RIX",
+    "arr": "VNO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA718",
+    "dep": "YYZ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI32B",
+    "dep": "RIX",
+    "arr": "HEL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA420",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7JW",
+    "dep": "RIX",
+    "arr": "PLQ"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1103",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1102",
+    "dep": "PUS",
+    "arr": "GMP"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU696",
+    "dep": "ATL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1601",
+    "dep": "GMP",
+    "arr": "USN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA424",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA466",
+    "dep": "YYZ",
+    "arr": "YOW"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1085",
+    "dep": "RSW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA312",
+    "dep": "YVR",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA329",
+    "dep": "YUL",
+    "arr": "YYC"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA381",
+    "dep": "YYZ",
+    "arr": "YMM"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9801",
+    "dep": "RIX",
+    "arr": "VNO"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB559",
+    "dep": "FRU",
+    "arr": "DME"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA426",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR021",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA428",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8ME",
+    "dep": "PLQ",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA427",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA494",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA624",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI940",
+    "dep": "VNO",
+    "arr": "KBP"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR062",
+    "dep": "CAI",
+    "arr": "LXR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI78F",
+    "dep": "TLL",
+    "arr": "MUC"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR061",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG6CP",
+    "dep": "STR",
+    "arr": "MXP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR110Z",
+    "dep": "ZRH",
+    "arr": "MUC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR83GR",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR72BY",
+    "dep": "CDG",
+    "arr": "BCN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI442",
+    "dep": "RIX",
+    "arr": "LED"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR198F",
+    "dep": "ZRH",
+    "arr": "BCN"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU274",
+    "dep": "RUN",
+    "arr": "DZA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI611",
+    "dep": "RIX",
+    "arr": "ATH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR147",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4150",
+    "dep": "LOS",
+    "arr": "ABV"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI941",
+    "dep": "KBP",
+    "arr": "VNO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA382",
+    "dep": "YMM",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC210",
+    "dep": "DAR",
+    "arr": "HAH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI761",
+    "dep": "RIX",
+    "arr": "TFS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG3AR",
+    "dep": "MXP",
+    "arr": "STR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA322",
+    "dep": "YYC",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB560",
+    "dep": "DME",
+    "arr": "FRU"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR063",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC212",
+    "dep": "DAR",
+    "arr": "HRE"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7703",
+    "dep": "RIX",
+    "arr": "VKO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1336",
+    "dep": "GVA",
+    "arr": "DME"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4XH",
+    "dep": "MUC",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI443",
+    "dep": "LED",
+    "arr": "RIX"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4151",
+    "dep": "ABV",
+    "arr": "LOS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR729",
+    "dep": "CAI",
+    "arr": "DME"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU275",
+    "dep": "DZA",
+    "arr": "RUN"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR42SH",
+    "dep": "BCN",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR72TL",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR133G",
+    "dep": "ZRH",
+    "arr": "KRK"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR797",
+    "dep": "CAI",
+    "arr": "VIE"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7XZ",
+    "dep": "VNO",
+    "arr": "DUB"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR166C",
+    "dep": "BCN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR751",
+    "dep": "CAI",
+    "arr": "BUD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR113Y",
+    "dep": "MUC",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2860",
+    "dep": "STR",
+    "arr": "NAP"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC213",
+    "dep": "DAR",
+    "arr": "NLA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR266K",
+    "dep": "GVA",
+    "arr": "LGW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI612",
+    "dep": "ATH",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC211",
+    "dep": "HAH",
+    "arr": "DAR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI771",
+    "dep": "RIX",
+    "arr": "TLV"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9DM",
+    "dep": "RIX",
+    "arr": "BGO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7PE",
+    "dep": "RIX",
+    "arr": "LIS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR19T",
+    "dep": "ZRH",
+    "arr": "BCN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA605",
+    "dep": "YHZ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2421",
+    "dep": "BOS",
+    "arr": "PBI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1324",
+    "dep": "ZRH",
+    "arr": "DME"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2861",
+    "dep": "NAP",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2964",
+    "dep": "STR",
+    "arr": "SPU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1879",
+    "dep": "TLL",
+    "arr": "AGP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA401",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR23UF",
+    "dep": "CDG",
+    "arr": "MAD"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2065",
+    "dep": "BOS",
+    "arr": "RSW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR267H",
+    "dep": "LGW",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3FL",
+    "dep": "VNO",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1337",
+    "dep": "DME",
+    "arr": "GVA"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU611",
+    "dep": "RUN",
+    "arr": "TNR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA403",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4BV",
+    "dep": "BGO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR37MK",
+    "dep": "KRK",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR19N",
+    "dep": "BCN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA974",
+    "dep": "YUL",
+    "arr": "PVR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2JE",
+    "dep": "DUB",
+    "arr": "VNO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR798",
+    "dep": "VIE",
+    "arr": "CAI"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR752",
+    "dep": "BUD",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI87V",
+    "dep": "TLL",
+    "arr": "LGW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2965",
+    "dep": "SPU",
+    "arr": "STR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR730",
+    "dep": "DME",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI762",
+    "dep": "TFS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA406",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR54YC",
+    "dep": "MAD",
+    "arr": "CDG"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR150",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU612",
+    "dep": "TNR",
+    "arr": "RUN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4745",
+    "dep": "OSL",
+    "arr": "BRU"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA405",
+    "dep": "YUL",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1732",
+    "dep": "ZRH",
+    "arr": "FCO"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR59YY",
+    "dep": "CDG",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1664",
+    "dep": "ZRH",
+    "arr": "VCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR194P",
+    "dep": "ZRH",
+    "arr": "BEG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI772",
+    "dep": "TLV",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8HM",
+    "dep": "LIS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3PR",
+    "dep": "CDG",
+    "arr": "VNO"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU591",
+    "dep": "BOS",
+    "arr": "TPA"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU322",
+    "dep": "PBI",
+    "arr": "BOS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2066",
+    "dep": "RSW",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI77Y",
+    "dep": "LGW",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4746",
+    "dep": "BRU",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1880",
+    "dep": "AGP",
+    "arr": "TLL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU570",
+    "dep": "FLL",
+    "arr": "BOS"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4152",
+    "dep": "LOS",
+    "arr": "ABV"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1733",
+    "dep": "FCO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU2269",
+    "dep": "BOS",
+    "arr": "FLL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR46LM",
+    "dep": "BER",
+    "arr": "CDG"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4153",
+    "dep": "ABV",
+    "arr": "LOS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR201",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR74QJ",
+    "dep": "CDG",
+    "arr": "VCE"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU592",
+    "dep": "TPA",
+    "arr": "BOS"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1101",
+    "dep": "GMP",
+    "arr": "PUS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA621",
+    "dep": "YHZ",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1001",
+    "dep": "PUS",
+    "arr": "CJU"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1002",
+    "dep": "CJU",
+    "arr": "PUS"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU565",
+    "dep": "BOS",
+    "arr": "RSW"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU255",
+    "dep": "RUN",
+    "arr": "HAH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR202",
+    "dep": "SSH",
+    "arr": "LXR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR186",
+    "dep": "CAI",
+    "arr": "ATZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8KA",
+    "dep": "RIX",
+    "arr": "AGP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6A1",
+    "dep": "RIX",
+    "arr": "DUB"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR786",
+    "dep": "ZRH",
+    "arr": "BRU"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR107J",
+    "dep": "ZRH",
+    "arr": "HAM"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI681",
+    "dep": "RIX",
+    "arr": "BCN"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR59UM",
+    "dep": "VCE",
+    "arr": "CDG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1325",
+    "dep": "DME",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR203",
+    "dep": "LXR",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS251",
+    "dep": "OSL",
+    "arr": "BGO"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU256",
+    "dep": "HAH",
+    "arr": "RUN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS841",
+    "dep": "OSL",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR109G",
+    "dep": "HAM",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1430",
+    "dep": "GVA",
+    "arr": "PRN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2536",
+    "dep": "STR",
+    "arr": "AGP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR78N",
+    "dep": "BRU",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1023",
+    "dep": "PUS",
+    "arr": "CJU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS252",
+    "dep": "BGO",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6A2",
+    "dep": "DUB",
+    "arr": "RIX"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR63DA",
+    "dep": "CDG",
+    "arr": "LIS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI682",
+    "dep": "BCN",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS338",
+    "dep": "OSL",
+    "arr": "TRD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR167M",
+    "dep": "ZRH",
+    "arr": "ARN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2MZ",
+    "dep": "AGP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3BJ",
+    "dep": "RIX",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI12H",
+    "dep": "RIX",
+    "arr": "GOT"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR284",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR046",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1608",
+    "dep": "USN",
+    "arr": "GMP"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1032",
+    "dep": "CJU",
+    "arr": "PUS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR146J",
+    "dep": "PRN",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS842",
+    "dep": "ZRH",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2537",
+    "dep": "AGP",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS355",
+    "dep": "TRD",
+    "arr": "OSL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR64HY",
+    "dep": "LIS",
+    "arr": "CDG"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU17",
+    "dep": "BOS",
+    "arr": "JFK"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB206",
+    "dep": "OSS",
+    "arr": "FRU"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU866",
+    "dep": "RSW",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI12G",
+    "dep": "GOT",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0737",
+    "dep": "YYZ",
+    "arr": "SFO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0702",
+    "dep": "YYZ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2DF",
+    "dep": "STR",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR047",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1252",
+    "dep": "YUL",
+    "arr": "PLS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR285",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1251",
+    "dep": "ARN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR27GJ",
+    "dep": "CDG",
+    "arr": "MAD"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU18",
+    "dep": "JFK",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6UN",
+    "dep": "RIX",
+    "arr": "BER"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4043",
+    "dep": "OSL",
+    "arr": "SVG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI422",
+    "dep": "RIX",
+    "arr": "SVO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR188",
+    "dep": "CAI",
+    "arr": "HMB"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG6WR",
+    "dep": "STR",
+    "arr": "MXP"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU451",
+    "dep": "BOS",
+    "arr": "MCO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4UJ",
+    "dep": "BER",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS4042",
+    "dep": "SVG",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2823",
+    "dep": "MXP",
+    "arr": "STR"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR31LH",
+    "dep": "MAD",
+    "arr": "CDG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI11X",
+    "dep": "ARN",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI423",
+    "dep": "SVO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA714",
+    "dep": "YYZ",
+    "arr": "LGA"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR206",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1253",
+    "dep": "PLS",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR080",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4132",
+    "dep": "QUO",
+    "arr": "ABV"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9806",
+    "dep": "TLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3U9",
+    "dep": "RIX",
+    "arr": "TKU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7704",
+    "dep": "VKO",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA719",
+    "dep": "LGA",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU1652",
+    "dep": "MCO",
+    "arr": "BOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA6200",
+    "dep": "YYZ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1127",
+    "dep": "YYZ",
+    "arr": "YLW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR282",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR082",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2002",
+    "dep": "STR",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR49M",
+    "dep": "GVA",
+    "arr": "LHR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI629",
+    "dep": "RIX",
+    "arr": "MXP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1128",
+    "dep": "YLW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1246",
+    "dep": "ZRH",
+    "arr": "ARN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2003",
+    "dep": "BER",
+    "arr": "STR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR194",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2686",
+    "dep": "STR",
+    "arr": "ATH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR283",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR33U",
+    "dep": "LHR",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI630",
+    "dep": "MXP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR184",
+    "dep": "CAI",
+    "arr": "RMF"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR208U",
+    "dep": "ZRH",
+    "arr": "LIS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR55U",
+    "dep": "ZRH",
+    "arr": "BOD"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7WP",
+    "dep": "RIX",
+    "arr": "TRD"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7EV",
+    "dep": "VNO",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2687",
+    "dep": "ATH",
+    "arr": "STR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR185",
+    "dep": "RMF",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC2102",
+    "dep": "DAR",
+    "arr": "MWZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1247",
+    "dep": "ARN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR151J",
+    "dep": "ZRH",
+    "arr": "SKG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3BP",
+    "dep": "TLL",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR95P",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA954",
+    "dep": "YUL",
+    "arr": "FDF"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7YW",
+    "dep": "TRD",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR233D",
+    "dep": "LIS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR57R",
+    "dep": "BOD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU269",
+    "dep": "BOS",
+    "arr": "FLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6PB",
+    "dep": "OSL",
+    "arr": "VNO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR593",
+    "dep": "CAI",
+    "arr": "TLV"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC2103",
+    "dep": "MWZ",
+    "arr": "DAR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR198Q",
+    "dep": "SKG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR741",
+    "dep": "CAI",
+    "arr": "LCA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR44L",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI72X",
+    "dep": "BER",
+    "arr": "TLL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR73MH",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR36A",
+    "dep": "ZRH",
+    "arr": "LHR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR48Y",
+    "dep": "ZRH",
+    "arr": "DRS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR240J",
+    "dep": "ZRH",
+    "arr": "ARN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS364",
+    "dep": "OSL",
+    "arr": "TRD"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR742",
+    "dep": "LCA",
+    "arr": "CAI"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR594",
+    "dep": "TLV",
+    "arr": "CAI"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4115",
+    "dep": "ENU",
+    "arr": "LOS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA2335",
+    "dep": "YMX",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR94M",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR99W",
+    "dep": "DRS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7HW",
+    "dep": "TLL",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS377",
+    "dep": "TRD",
+    "arr": "OSL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR31E",
+    "dep": "LHR",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA7093",
+    "dep": "YWG",
+    "arr": "YUL"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR736",
+    "dep": "ZRH",
+    "arr": "AMS"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA955",
+    "dep": "FDF",
+    "arr": "YUL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4EC",
+    "dep": "OSL",
+    "arr": "TLL"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR48ZP",
+    "dep": "CDG",
+    "arr": "MAD"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU365",
+    "dep": "BOS",
+    "arr": "RSW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI35Z",
+    "dep": "RIX",
+    "arr": "TMP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA422",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU366",
+    "dep": "RSW",
+    "arr": "BOS"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR292",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR286",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR145",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR11VA",
+    "dep": "MAD",
+    "arr": "CDG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG65M",
+    "dep": "STR",
+    "arr": "HAM"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1677",
+    "dep": "RIX",
+    "arr": "AGP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR737",
+    "dep": "AMS",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR296",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR743",
+    "dep": "CAI",
+    "arr": "LCA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2045",
+    "dep": "HAM",
+    "arr": "STR"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC214",
+    "dep": "DAR",
+    "arr": "JRO"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR182F",
+    "dep": "ARN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR744",
+    "dep": "LCA",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG4P",
+    "dep": "STR",
+    "arr": "FCO"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR69ZP",
+    "dep": "CDG",
+    "arr": "VCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR128H",
+    "dep": "ZRH",
+    "arr": "WRO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR735",
+    "dep": "CAI",
+    "arr": "IST"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1678",
+    "dep": "AGP",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR59R",
+    "dep": "ZRH",
+    "arr": "NCE"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR85KV",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "ATC",
+    "flight": "ATC215",
+    "dep": "EBB",
+    "arr": "JRO"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR83XR",
+    "dep": "VCE",
+    "arr": "CDG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL975",
+    "dep": "MSP",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG22E",
+    "dep": "FCO",
+    "arr": "STR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR136X",
+    "dep": "WRO",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR88U",
+    "dep": "NCE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL487",
+    "dep": "DFW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR085",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR59GW",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR203K",
+    "dep": "ZRH",
+    "arr": "MAD"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR87PX",
+    "dep": "CDG",
+    "arr": "VCE"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1080",
+    "dep": "DTW",
+    "arr": "LGA"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR736",
+    "dep": "IST",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR195K",
+    "dep": "ZRH",
+    "arr": "BCN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR56N",
+    "dep": "ZRH",
+    "arr": "NCE"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR096",
+    "dep": "CAI",
+    "arr": "ASW"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR32KQ",
+    "dep": "VCE",
+    "arr": "CDG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL983",
+    "dep": "LGA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI444",
+    "dep": "RIX",
+    "arr": "LED"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1188",
+    "dep": "LGA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR201Z",
+    "dep": "MAD",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR539L",
+    "dep": "NCE",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR191N",
+    "dep": "BCN",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI445",
+    "dep": "LED",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR097",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1045",
+    "dep": "MSP",
+    "arr": "LGA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR80KF",
+    "dep": "ZRH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL893",
+    "dep": "LGA",
+    "arr": "DTW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI410",
+    "dep": "RIX",
+    "arr": "ODS"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL423",
+    "dep": "MSP",
+    "arr": "ATL"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL874",
+    "dep": "MSP",
+    "arr": "GEG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL510",
+    "dep": "ATL",
+    "arr": "MSP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7773",
+    "dep": "RIX",
+    "arr": "HRG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG5710",
+    "dep": "STR",
+    "arr": "PRN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2682",
+    "dep": "STR",
+    "arr": "SKG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1304",
+    "dep": "GVA",
+    "arr": "LED"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR036",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR791",
+    "dep": "CAI",
+    "arr": "FCO"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR083",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG5711",
+    "dep": "PRN",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG4WB",
+    "dep": "SKG",
+    "arr": "STR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR037",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4157",
+    "dep": "ABV",
+    "arr": "LOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2YT",
+    "dep": "RIX",
+    "arr": "VRN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI69P",
+    "dep": "RIX",
+    "arr": "MUC"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR44PH",
+    "dep": "GVA",
+    "arr": "KTT"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI6QW",
+    "dep": "RIX",
+    "arr": "KTT"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB4822",
+    "dep": "SSH",
+    "arr": "FRU"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR18AQ",
+    "dep": "GVA",
+    "arr": "ARN"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR424T",
+    "dep": "GVA",
+    "arr": "LGW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI2WT",
+    "dep": "RIX",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7774",
+    "dep": "HRG",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR94U",
+    "dep": "ZRH",
+    "arr": "BER"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1275",
+    "dep": "GMP",
+    "arr": "CJU"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2000",
+    "dep": "STR",
+    "arr": "BER"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1305",
+    "dep": "LED",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI657",
+    "dep": "RIX",
+    "arr": "LCA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1404",
+    "dep": "YHZ",
+    "arr": "PUJ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR792",
+    "dep": "FCO",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR244G",
+    "dep": "LGW",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI8DP",
+    "dep": "TLL",
+    "arr": "SZG"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL742",
+    "dep": "LGA",
+    "arr": "MSP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1260",
+    "dep": "GVA",
+    "arr": "CPH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9AY",
+    "dep": "VRN",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG7KB",
+    "dep": "STR",
+    "arr": "CTA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7RK",
+    "dep": "MUC",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3GV",
+    "dep": "KTT",
+    "arr": "RIX"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR287",
+    "dep": "ASW",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR45HM",
+    "dep": "KTT",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS269",
+    "dep": "OSL",
+    "arr": "BGO"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1068",
+    "dep": "YUL",
+    "arr": "MBJ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR916E",
+    "dep": "BER",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA365",
+    "dep": "YUL",
+    "arr": "YLW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI72C",
+    "dep": "GVA",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2001",
+    "dep": "BER",
+    "arr": "STR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR348",
+    "dep": "GVA",
+    "arr": "LHR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA938",
+    "dep": "YUL",
+    "arr": "NAS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR161J",
+    "dep": "CPH",
+    "arr": "GVA"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR193R",
+    "dep": "ARN",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1022",
+    "dep": "GEG",
+    "arr": "MSP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI4LA",
+    "dep": "RIX",
+    "arr": "SZG"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS274",
+    "dep": "BGO",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI3JY",
+    "dep": "SZG",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2819",
+    "dep": "CTA",
+    "arr": "STR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1318",
+    "dep": "ZRH",
+    "arr": "TLL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI658",
+    "dep": "LCA",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR349R",
+    "dep": "LHR",
+    "arr": "GVA"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1440",
+    "dep": "LGA",
+    "arr": "PBI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1405",
+    "dep": "PUJ",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7HX",
+    "dep": "SZG",
+    "arr": "RIX"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL668",
+    "dep": "MSP",
+    "arr": "GEG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR42RF",
+    "dep": "GVA",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA939",
+    "dep": "NAS",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1069",
+    "dep": "MBJ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR713",
+    "dep": "CAI",
+    "arr": "BEY"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL1473",
+    "dep": "PBI",
+    "arr": "LGA"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA7051",
+    "dep": "YYC",
+    "arr": "YVR"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR714",
+    "dep": "BEY",
+    "arr": "CAI"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0783",
+    "dep": "YUL",
+    "arr": "LAX"
+  },
+  {
+    "airline": "KAL",
+    "flight": "KAL1204",
+    "dep": "CJU",
+    "arr": "GMP"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA694",
+    "dep": "YYZ",
+    "arr": "YYT"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA468",
+    "dep": "YYZ",
+    "arr": "YOW"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG1CY",
+    "dep": "STR",
+    "arr": "PMI"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU421",
+    "dep": "RUN",
+    "arr": "SEZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7771",
+    "dep": "RIX",
+    "arr": "SSH"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1675",
+    "dep": "RIX",
+    "arr": "LIS"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR286B",
+    "dep": "GVA",
+    "arr": "HRG"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR152",
+    "dep": "CAI",
+    "arr": "HRG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR62U",
+    "dep": "ZRH",
+    "arr": "CDG"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU105",
+    "dep": "MRU",
+    "arr": "RUN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2587",
+    "dep": "PMI",
+    "arr": "STR"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1319",
+    "dep": "TLL",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA683",
+    "dep": "YYT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR591",
+    "dep": "CAI",
+    "arr": "TLV"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR032",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR63D",
+    "dep": "CDG",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR610K",
+    "dep": "CDG",
+    "arr": "NTE"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS837",
+    "dep": "OSL",
+    "arr": "CDG"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR592",
+    "dep": "TLV",
+    "arr": "CAI"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR033",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR418",
+    "dep": "GVA",
+    "arr": "ORK"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR24UD",
+    "dep": "ZRH",
+    "arr": "MXP"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI1676",
+    "dep": "LIS",
+    "arr": "RIX"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2734",
+    "dep": "STR",
+    "arr": "KRK"
+  },
+  {
+    "airline": "IAN",
+    "flight": "IAN4107",
+    "dep": "LOS",
+    "arr": "QUO"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI7772",
+    "dep": "SSH",
+    "arr": "RIX"
+  },
+  {
+    "airline": "REU",
+    "flight": "REU422",
+    "dep": "SEZ",
+    "arr": "RUN"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR55FA",
+    "dep": "CDG",
+    "arr": "VCE"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA441",
+    "dep": "YOW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR2411",
+    "dep": "HRG",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI683",
+    "dep": "RIX",
+    "arr": "BCN"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU52",
+    "dep": "MCO",
+    "arr": "BOS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2180",
+    "dep": "STR",
+    "arr": "AMS"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9804",
+    "dep": "TLL",
+    "arr": "RIX"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA163",
+    "dep": "YYZ",
+    "arr": "YEG"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR87PL",
+    "dep": "MXP",
+    "arr": "ZRH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1410",
+    "dep": "YHZ",
+    "arr": "CUN"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS834",
+    "dep": "CDG",
+    "arr": "OSL"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2735",
+    "dep": "KRK",
+    "arr": "STR"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR82QX",
+    "dep": "VCE",
+    "arr": "CDG"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA948",
+    "dep": "YUL",
+    "arr": "PTP"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR419",
+    "dep": "ORK",
+    "arr": "GVA"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR711",
+    "dep": "CAI",
+    "arr": "BEY"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2CN",
+    "dep": "AMS",
+    "arr": "STR"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2784",
+    "dep": "STR",
+    "arr": "BUD"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR462H",
+    "dep": "ZRH",
+    "arr": "NUE"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA968",
+    "dep": "YYZ",
+    "arr": "GGT"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS1326",
+    "dep": "OSL",
+    "arr": "AES"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI684",
+    "dep": "BCN",
+    "arr": "RIX"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR106Y",
+    "dep": "ZRH",
+    "arr": "ATH"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA451",
+    "dep": "YOW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1474",
+    "dep": "GVA",
+    "arr": "PRG"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0782",
+    "dep": "LAX",
+    "arr": "YUL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA143",
+    "dep": "YYZ",
+    "arr": "YYC"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR86MH",
+    "dep": "CDG",
+    "arr": "BCN"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0410",
+    "dep": "YYZ",
+    "arr": "YUL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR712",
+    "dep": "BEY",
+    "arr": "CAI"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS366",
+    "dep": "OSL",
+    "arr": "TRD"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS1327",
+    "dep": "AES",
+    "arr": "OSL"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR153",
+    "dep": "HRG",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR1475",
+    "dep": "PRG",
+    "arr": "GVA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "EWG2785",
+    "dep": "BUD",
+    "arr": "STR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA0305",
+    "dep": "YUL",
+    "arr": "YVR"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA168",
+    "dep": "YEG",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "BTI",
+    "flight": "SAS379",
+    "dep": "TRD",
+    "arr": "OSL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA454",
+    "dep": "YYZ",
+    "arr": "YOW"
+  },
+  {
+    "airline": "AFR",
+    "flight": "AFR86UN",
+    "dep": "BCN",
+    "arr": "CDG"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA969",
+    "dep": "GGT",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA1411",
+    "dep": "CUN",
+    "arr": "YHZ"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DAL432",
+    "dep": "LGA",
+    "arr": "DFW"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA459",
+    "dep": "YOW",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "DAL",
+    "flight": "DL356",
+    "dep": "ORD",
+    "arr": "LGA"
+  },
+  {
+    "airline": "BTI",
+    "flight": "BTI9805",
+    "dep": "RIX",
+    "arr": "TLL"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA124",
+    "dep": "YVR",
+    "arr": "YYZ"
+  },
+  {
+    "airline": "ACA",
+    "flight": "ACA263",
+    "dep": "YYZ",
+    "arr": "YWG"
+  },
+  {
+    "airline": "JBU",
+    "flight": "JBU665",
+    "dep": "BOS",
+    "arr": "RSW"
+  },
+  {
+    "airline": "MBB",
+    "flight": "MBB196",
+    "dep": "OSS",
+    "arr": "FRU"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR038",
+    "dep": "CAI",
+    "arr": "SSH"
+  },
+  {
+    "airline": "MSR",
+    "flight": "MSR039",
+    "dep": "SSH",
+    "arr": "CAI"
+  },
+  {
+    "airline": "SWR",
+    "flight": "SWR5117",
+    "dep": "BEG",
+    "arr": "ZRH"
+  }
+]
