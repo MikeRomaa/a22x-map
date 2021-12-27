@@ -21,6 +21,7 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "@typescript-eslint/ban-ts-comment": "off",
         "indent": [
             "error",
             4

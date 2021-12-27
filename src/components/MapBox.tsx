@@ -1,21 +1,22 @@
 import React, { useCallback, useMemo, useState } from 'react';
 import GeoJSON from 'geojson';
 import ReactMapGL, { FlyToInterpolator, Layer, MapEvent, Popup, Source } from 'react-map-gl';
+import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
+import { airportStyle, flightStyle } from './mapStyles';
 import flightsGeo from '../data/flights.json';
 import airportsGeo from '../data/airports.json';
-import { airportStyle, flightStyle } from './mapStyles';
 
-type Viewport = {
-    latitude: number;
-    longitude: number;
-    zoom: number;
-}
+// The following is required to stop "yarn build" from transpiling mapbox code.
+// notice the exclamation point in the import.
+// @ts-ignore
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 const MapBox: React.FC = () => {
     const [selectedAirport, setselectedAirport] = useState<string | undefined>();
     const [popup, setPopup] = React.useState<GeoJSON.Feature<GeoJSON.Point>>();
-    const [viewport, setViewport] = useState<Viewport>({
+    const [viewport, setViewport] = useState({
         latitude: 40,
         longitude: 0,
         zoom: 3,
